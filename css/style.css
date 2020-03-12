@@ -1,0 +1,27 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style2 {
+  margin-left: 728px;
+  margin-top: 156px;
+  width: 24.166%;
+  height: 13.425vh
+}
+.style0 {
+  display: flex;
+  margin-left: 552px;
+  margin-top: 0;
+  width: 42.552%;
+  height: 44.351vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style1 {
+  opacity: .7200000286102295;
+  width: 36.474%;
+  height: 62.212%;
+  border-radius: 149px
+}
